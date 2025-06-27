@@ -209,9 +209,9 @@ header.sticky ul li a{
 .work article {
     background-color: #82d89b;
     border-radius: 8px;
-    padding: 20px;
+    padding: 10px;
    
-    margin-right: 20px; /* Add spacing between articles */
+    margin-right: 10px; /* Add spacing between articles */
 }
 
 
