@@ -192,7 +192,9 @@ header.sticky ul li a{
  }
 .work {
     display: flex;
-    margin: 50px auto;
+    margin: 30px auto;
+    gap: 12px;
+    padding: 0 10px;
     max-width: 800px;
     overflow-x: auto; /* Add horizontal scroll if content overflows */
 
